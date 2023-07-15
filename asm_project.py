@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 count = 1
 
 w = [0, 0, 0, 0, 0]

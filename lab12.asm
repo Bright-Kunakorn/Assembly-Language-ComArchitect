@@ -7,7 +7,6 @@ MAIN PROC
 ; initialize DS
 	MOV	AX,@DATA
 	MOV	DS,AX	
-
 ; display message1
 	LEA	DX,MSG1		
 	MOV	AH,9		
